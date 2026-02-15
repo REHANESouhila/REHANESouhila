@@ -16,7 +16,7 @@ Hi, I'm Souhila – a passionate computer science student from France 🇫🇷
 - 💻 Working on: **Building full-stack applications & improving my data structures and algorithms skills**
 - 🧠 Interests: Software architecture, clean code principles, system design, backend development
 - 🚀 Looking for: **A software engineering apprenticeship starting September 2025**
-- 📫 How to reach me: **rehanesouhila571@gmail.com**
+- 📫 How to reach me: **souhilarehane571@gmail.com**
 - 📝 Quote of the day: *"Life is like riding a bicycle. To keep your balance, you must keep moving." – Albert Einstein*
 
 ---
