@@ -71,3 +71,5 @@ Feel free to reach out or connect with me:
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rehanesouhila571@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souhila%20Rehane-blue?logo=linkedin)](https://www.linkedin.com/in/souhila-rehane-/)
